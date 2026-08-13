@@ -1,0 +1,17 @@
+ACME INDUSTRIAL
+INDUSTRIAL BALL VALVE DATASHEET
+
+Product: 2-Inch Stainless Steel Ball Valve
+Manufacturer: Acme Industrial
+Model: BV-200
+
+Specifications
+Material: Stainless Steel
+Size: 2 inch
+Connection: FNPT
+Pressure Rating: 600 WOG
+Temperature Range: -20 F to 400 F
+
+Application:
+Industrial fluid control and water systems.
+
