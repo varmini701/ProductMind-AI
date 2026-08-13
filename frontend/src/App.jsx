@@ -17,7 +17,7 @@ import {
 
 import "./styles.css";
 
-const API = "http://127.0.0.1:8000";
+const API = "https://productmind-ai-backend-as6m.onrender.com";
 
 function scoreClass(score) {
   if (score >= 90) return "good";
